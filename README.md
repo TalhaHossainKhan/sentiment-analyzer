@@ -35,6 +35,8 @@ Finally, I used NLTK and WordCloud to analyze the review sentiment:
 ## Results
 The resulting word cloud provides a visual representation of the most frequently used words in Brawlhalla reviews, highlighting the polarized opinions of players. This visualization helps quickly identify common themes and sentiments expressed by the game's community.
 
+![World cloud picture](https://github.com/TalhaHossainKhan/sentiment-analyzer/blob/main/wordcloud.png)
+
 ## Future Improvements
 
 + Implement more advanced sentiment analysis techniques
